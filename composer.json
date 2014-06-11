@@ -5,4 +5,13 @@
             "JuiceLib\\Graphic\\": "src"
         }
     }
+    "homepage": "https://github.com/JuiceLib/JuiceLib-Graphic",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoel Nunez",
+            "email": "y.nunez@floms.com"
+        }
+    ]
 }
