@@ -1,0 +1,8 @@
+{
+    "name": "juicelib/graphic",
+    "autoload": {
+        "psr-0": {
+            "JuiceLib\\Graphic\\": "src"
+        }
+    }
+}
