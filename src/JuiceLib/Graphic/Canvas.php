@@ -1,8 +1,6 @@
 <?php
 namespace JuiceLib\Graphic;
 
-use JuiceLib\Exception\Exception;
-
 class Canvas implements GraphicResource
 {
     const PNG = 0;
